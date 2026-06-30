@@ -108,7 +108,7 @@ ul { list-style: none; }
   position: relative;
   background:
     linear-gradient(180deg, rgba(10,20,35,0.55) 0%, rgba(10,20,35,0.35) 45%, rgba(10,20,35,0.75) 100%),
-    url("images/hero-bg.jpg") center 48% / cover no-repeat;
+    url("images/hero-bg.jpg") center 80% / cover no-repeat;
   color: #fff;
   padding: 170px 0 180px;
   text-align: center;
