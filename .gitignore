@@ -1,4 +1,6 @@
 *.pdf
 *.png
 *.jpg
+!images/*.jpg
+!images/*.png
 .DS_Store
